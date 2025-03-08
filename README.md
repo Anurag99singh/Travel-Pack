@@ -16,7 +16,7 @@ A smart packing list manager to help you keep track of your travel essentials. E
 - **HTML and CSS** -For sturcturing and designing
 
 ## 📦 Installation  
-1. **Clone the repo:** -  git clone https://github.com/your-username/pack-it-before-go.git
+1. **Clone the repo:** -   
    cd pack-it-before-go
 2. **Install dependencies** - npm install
 3. **Start Program** - npm start
